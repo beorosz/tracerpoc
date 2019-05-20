@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FodyTestDotnetCore_Log4Net", "FodyTestDotnetCore_Log4Net\FodyTestDotnetCore_Log4Net.csproj", "{78E5C63C-0B8E-4917-9EF5-4259F837401D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FodyTestDotnetCore_NLog", "FodyTestDotnetCore_NLog\FodyTestDotnetCore_NLog.csproj", "{2E24A6D0-1E9B-4FA0-B440-5E169E2C16E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78E5C63C-0B8E-4917-9EF5-4259F837401D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78E5C63C-0B8E-4917-9EF5-4259F837401D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78E5C63C-0B8E-4917-9EF5-4259F837401D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78E5C63C-0B8E-4917-9EF5-4259F837401D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E24A6D0-1E9B-4FA0-B440-5E169E2C16E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E24A6D0-1E9B-4FA0-B440-5E169E2C16E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E24A6D0-1E9B-4FA0-B440-5E169E2C16E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E24A6D0-1E9B-4FA0-B440-5E169E2C16E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74A67D2B-4668-4409-A186-900D81602FE6}
+	EndGlobalSection
+EndGlobal
